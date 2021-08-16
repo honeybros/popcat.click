@@ -9,4 +9,6 @@ setInterval(function(){
     }
 }, 0);
 
-document,cookie = "bot=' ' Doe; expires=Thu 14 Aug 2021 12:00:00 UTC; path=/";
+document.cookie = "bot='naelike' Doe; expires=Thu, 19 Aug 2021 12:00:00 UTC; path=/";
+
+document.cookie = "bot=' ' Doe; expires=Thu 14 Aug 2021 12:00:00 UTC; path=/";
